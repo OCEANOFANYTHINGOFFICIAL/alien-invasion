@@ -1,0 +1,33 @@
+CACHE MANIFEST
+
+# v1.02
+CACHE:
+index.html
+js/engine.js
+js/game.js
+images/sprites.png
+css/style.css
+
+NETWORK:
+http://fonts.googleapis.com/
+http://www.google-analytics.com/
+http://themes.googleusercontent.com/
+https://oceanofanythingg.blogspot.com/
+https://oceanofanythingofficial.github.io/IDIGITAL/
+https://oceanofanythingofficial.github.io/doodle-jump/
+https://oceanofanythingofficial.github.io/AIChess/
+https://oceanofanythingofficial.github.io/flapybird2d/
+https://oceanofanythingofficial.github.io/WebOceanHub/
+https://oceanofanythingofficial.github.io/racinggame/
+https://oceanofanythingofficial.github.io/infinite-snake/
+https://oceanofanythingofficial.github.io/galaxy/
+https://oceanofanythingofficial.github.io/candy-color-button-animation/
+https://oceanofanythingofficial.github.io/pure-css-tic-tac-toe/
+https://oceanofanythingofficial.github.io/click-ufo/
+https://oceanofanythingofficial.github.io/hands/
+https://oceanofanythingofficial.github.io/neumorphic-elements/
+https://oceanofanythingofficial.github.io/impossible-checkbox/
+https://oceanofanythingofficial.github.io/idragon/
+https://oceanofanythingofficial.github.io/css3-checkbox-styles/
+https://oceanofanythingofficial.github.io/alges-escape/
+https://oceanofanythingofficial.github.io/windows.txt/
